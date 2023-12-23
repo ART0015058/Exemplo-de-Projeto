@@ -1,0 +1,59 @@
+{
+  "ricos":[
+    {
+      "id": 1, 
+      "nome":"T'Challa", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"90 trilhões"
+    },
+    {
+      "id": 2, 
+      "nome":"Smaug", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"62 trilhões"
+    },
+    {
+      "id": 3, 
+      "nome":"Pão-Duro MacMônei", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"62 trilhões"
+    },
+    {
+      "id": 4, 
+      "nome":"Bruce Wayne", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"9,2 bilhões"
+    },
+    {
+      "id": 5, 
+      "nome":"Scrooge Mcduck", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"65,4 trilhões"
+    },
+    {
+      "id": 6, 
+      "nome":"Tony Stark", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"80 bilhões"
+    }, 
+    {
+      "id": 7, 
+      "nome":"Reed Richards", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"12 bilhões"
+    },
+    {
+      "id": 8, 
+      "nome":"Oliver Queen", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"7 bilhões"
+    },
+    {
+      "id": 9, 
+      "nome":"Tony Stark", 
+      "img":"assets/nomedaimgagem.extensão", 
+      "fortuna":"80 bilhões"
+    }
+  ]
+   
+}
